@@ -3,9 +3,17 @@ require("dotenv").config();
 
 import express from "express";
 import config from "config";
+
+// Router
 import router from "./router";
+
+// Database
 import db from "../config/db";
+
+// Logger
 import Logger from "../config/logger";
+
+// Middlerware
 import morganMiddleware from "./middleware/morganMiddleware";
 
 const app = express();
