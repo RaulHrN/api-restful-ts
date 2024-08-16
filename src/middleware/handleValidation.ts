@@ -10,7 +10,7 @@ export const validate = (req: Request, res: Response, next: NextFunction) => {
 
     const extratectErrors: object[] = [];
 
-    errors.array().map((error) => extratectErrors.push({ [error.param]: error.msg }));
+    errors.array().map((error: any) => extratectErrors.push({ [error.param]: error.msg }));
 
     return res.status(422).json({
         errors: extratectErrors,
