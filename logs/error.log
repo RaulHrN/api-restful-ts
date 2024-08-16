@@ -1,0 +1,2 @@
+2024-08-16 12:38:52:3852 - [31merror[39m: [31mConnection failed.[39m
+2024-08-16 12:38:52:3852 - [31merror[39m: [31mError: MongoParseError: option rtrywrites is not supported[39m
