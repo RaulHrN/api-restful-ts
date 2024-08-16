@@ -24,3 +24,9 @@
 [35m[39m
 2024-08-16 13:06:57:657 - [32minfo[39m: [32mDatabase connected.[39m
 2024-08-16 13:06:57:657 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-16 13:07:07:77 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-16 13:07:07:77 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-16 13:09:52:952 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-16 13:09:52:952 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-16 13:10:29:1029 - [35mhttp[39m: [35mPOST /api/movie 201 131 - 34.695 ms[39m
+[35m[39m
