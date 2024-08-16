@@ -8,3 +8,11 @@
 2024-08-16 12:38:56:3856 - [32minfo[39m: [32mApplication running on port: 3000[39m
 2024-08-16 12:39:25:3925 - [32minfo[39m: [32mDatabase connected.[39m
 2024-08-16 12:39:25:3925 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-16 12:49:24:4924 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-16 12:49:24:4924 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-16 12:49:53:4953 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-16 12:49:53:4953 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-16 12:50:26:5026 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-16 12:50:26:5026 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-16 12:50:37:5037 - [35mhttp[39m: [35mGET /api/test 200 12 - 1.805 ms[39m
+[35m[39m
