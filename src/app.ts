@@ -1,6 +1,7 @@
 import express from "express";
 import config from "config";
 import router from "./router";
+import db from "../config/db";
 
 const app = express();
 
@@ -14,5 +15,7 @@ app.use
 const port = config.get<number>("port");
 
 app.listen(3000, async () => {
+    await db();
+
     console.log(`Application running on port: ${port}`);
 });
