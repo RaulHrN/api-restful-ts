@@ -8,6 +8,7 @@ export const movieCreateValidation = () => {
             if (value < 0 || value > 10) {
                 throw new Error("Rating between 0 and 10.");
             }
+            return true;
         }),
         body("description").isString().withMessage("Description is required."),
         body("director").isString().withMessage("Director is required."),

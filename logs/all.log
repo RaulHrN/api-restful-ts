@@ -88,3 +88,39 @@
 [35m[39m
 2024-08-21 12:48:05:485 - [32minfo[39m: [32mDatabase connected.[39m
 2024-08-21 12:48:05:485 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 12:51:24:5124 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:51:24:5124 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 12:52:17:5217 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:52:17:5217 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 12:53:13:5313 - [35mhttp[39m: [35mPATCH /api/movie/66bf79f54c406309c06a9d9c 404 28 - 24.580 ms[39m
+[35m[39m
+2024-08-21 12:54:53:5453 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:54:53:5453 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 12:57:08:578 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:57:08:578 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 13:01:17:117 - [35mhttp[39m: [35mPOST /api/movie 422 287 - 5.543 ms[39m
+[35m[39m
+2024-08-21 13:03:24:324 - [35mhttp[39m: [35mPOST /api/movie 422 287 - 1.593 ms[39m
+[35m[39m
+2024-08-21 13:04:27:427 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 13:04:27:427 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 13:05:18:518 - [35mhttp[39m: [35mPOST /api/movie 422 287 - 5.325 ms[39m
+[35m[39m
+2024-08-21 13:10:46:1046 - [35mhttp[39m: [35mPOST /api/movie 422 287 - 1.783 ms[39m
+[35m[39m
+2024-08-21 13:11:41:1141 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 13:11:41:1141 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 13:11:49:1149 - [35mhttp[39m: [35mPOST /api/movie 422 257 - 4.878 ms[39m
+[35m[39m
+2024-08-21 13:13:39:1339 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 13:13:39:1339 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 13:14:08:148 - [35mhttp[39m: [35mPOST /api/movie 422 245 - 6.275 ms[39m
+[35m[39m
+2024-08-21 13:14:19:1419 - [35mhttp[39m: [35mPOST /api/movie/ 422 245 - 1.438 ms[39m
+[35m[39m
+2024-08-21 13:15:18:1518 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 13:15:18:1518 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 13:15:31:1531 - [35mhttp[39m: [35mPOST /api/movie 422 245 - 5.155 ms[39m
+[35m[39m
+2024-08-21 13:15:39:1539 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 13:15:39:1539 - [32minfo[39m: [32mApplication running on port: 3000[39m
