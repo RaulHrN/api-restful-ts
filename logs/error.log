@@ -1,3 +1,8 @@
 2024-08-16 12:38:52:3852 - [31merror[39m: [31mConnection failed.[39m
 2024-08-16 12:38:52:3852 - [31merror[39m: [31mError: MongoParseError: option rtrywrites is not supported[39m
 2024-08-21 12:03:17:317 - [31merror[39m: [31mConnection failed.[39m
+2024-08-21 12:40:07:407 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "66bf79f54c406309c06a9d9r" (type string) at path "_id" for model "Movie"[39m
+2024-08-21 12:41:31:4131 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "66bf79f54c406309c06a9d9r" (type string) at path "_id" for model "Movie"[39m
+2024-08-21 12:41:36:4136 - [31merror[39m: [31mSystem error: movie.delete is not a function[39m
+2024-08-21 12:41:46:4146 - [31merror[39m: [31mSystem error: movie.delete is not a function[39m
+2024-08-21 12:45:53:4553 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "66bf79f54c406309c06a9d9r" (type string) at path "_id" for model "Movie"[39m

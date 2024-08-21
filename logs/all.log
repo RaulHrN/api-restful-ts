@@ -57,3 +57,34 @@
 [35m[39m
 2024-08-21 12:30:46:3046 - [35mhttp[39m: [35mGET /api/movie/66bf79f54c406309c06a9d9c 200 131 - 18.768 ms[39m
 [35m[39m
+2024-08-21 12:36:15:3615 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:36:15:3615 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 12:37:23:3723 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:37:23:3723 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 12:39:06:396 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:39:06:396 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 12:39:45:3945 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:39:45:3945 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 12:40:07:407 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "66bf79f54c406309c06a9d9r" (type string) at path "_id" for model "Movie"[39m
+2024-08-21 12:40:49:4049 - [35mhttp[39m: [35mGET /api/movie/66bf79f54c406309c06a9d9r - - - - ms[39m
+[35m[39m
+2024-08-21 12:41:31:4131 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "66bf79f54c406309c06a9d9r" (type string) at path "_id" for model "Movie"[39m
+2024-08-21 12:41:31:4131 - [35mhttp[39m: [35mDELETE /api/movie/66bf79f54c406309c06a9d9r 500 36 - 2.967 ms[39m
+[35m[39m
+2024-08-21 12:41:36:4136 - [31merror[39m: [31mSystem error: movie.delete is not a function[39m
+2024-08-21 12:41:36:4136 - [35mhttp[39m: [35mDELETE /api/movie/66bf79f54c406309c06a9d9c 500 36 - 22.073 ms[39m
+[35m[39m
+2024-08-21 12:41:46:4146 - [31merror[39m: [31mSystem error: movie.delete is not a function[39m
+2024-08-21 12:41:46:4146 - [35mhttp[39m: [35mDELETE /api/movie/66bf79f54c406309c06a9d9c 500 36 - 16.672 ms[39m
+[35m[39m
+2024-08-21 12:45:46:4546 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:45:46:4546 - [32minfo[39m: [32mApplication running on port: 3000[39m
+2024-08-21 12:45:53:4553 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "66bf79f54c406309c06a9d9r" (type string) at path "_id" for model "Movie"[39m
+2024-08-21 12:45:53:4553 - [35mhttp[39m: [35mDELETE /api/movie/66bf79f54c406309c06a9d9r 500 36 - 6.963 ms[39m
+[35m[39m
+2024-08-21 12:46:43:4643 - [35mhttp[39m: [35mDELETE /api/movie/66bf79f54c406309c06a9d9c 200 24 - 51.182 ms[39m
+[35m[39m
+2024-08-21 12:47:04:474 - [35mhttp[39m: [35mGET /api/movie/66bf79f54c406309c06a9d9c 404 28 - 14.571 ms[39m
+[35m[39m
+2024-08-21 12:48:05:485 - [32minfo[39m: [32mDatabase connected.[39m
+2024-08-21 12:48:05:485 - [32minfo[39m: [32mApplication running on port: 3000[39m
